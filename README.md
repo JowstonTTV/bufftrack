@@ -1,4 +1,4 @@
-Garbage AI Slop addon for tracking buffs, dispels, and esunas.
+Garbage AI Slop addon for tracking buffs, dispels, and esunas. 100% of code from claude prompts
 
 Click-to-cast option available for bufftracking
 
