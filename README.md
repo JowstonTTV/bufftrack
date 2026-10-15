@@ -1,3 +1,5 @@
+I have no intention of distributing or sharing this addon with anyone. Project was only uploaded to github for PXI review.
+
 Garbage AI Slop addon for tracking buffs, dispels, and esunas. 100% of code from claude prompts
 
 Click-to-cast option available for bufftracking
